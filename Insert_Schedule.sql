@@ -1,0 +1,22 @@
+INSERT INTO Schedule
+VALUES(100, 210,20, "fall");
+INSERT INTO Schedule
+VALUES(101, 211,20, "fall");
+INSERT INTO Schedule
+VALUES(102, 212,21, "spring");
+INSERT INTO Schedule
+VALUES(103, 213,22, "fall");
+INSERT INTO Schedule
+VALUES(104, 214,23, "spring");
+INSERT INTO Schedule
+VALUES(105, 215,24, "fall");
+INSERT INTO Schedule
+VALUES(106, 216,25, "spring");
+INSERT INTO Schedule
+VALUES(107, 217,26, "fall");
+INSERT INTO Schedule
+VALUES(108, 218,27, "spring");
+INSERT INTO Schedule
+VALUES(109, 219,28, "fall");
+INSERT INTO Schedule
+VALUES(110, 220,29,"spring");
